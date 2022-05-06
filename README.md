@@ -1,4 +1,4 @@
-#hello people 
+# Hello people 
 <p>
-	YO ho 
+	YO HO
 </p>
